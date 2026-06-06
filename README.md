@@ -1,4 +1,4 @@
-# Ex-7-B-RADIATION-PATTERN-OF-HORN-PARABOLIC-ANTENNAS
+# Ex-8-DIRECTIONAL COUPLER EXPERIMENT
 ## Aim:
 To measure the polar pattern and the gain of a waveguide horn antenna and parabolic antenna.
 
